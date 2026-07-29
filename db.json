@@ -1,56 +1,55 @@
 {
   "version": "2.0",
-  "timestamp": "2026-07-29T13:09:50.397Z",
+  "timestamp": "2026-07-29T15:07:49.968Z",
   "modules": {
     "treePlant": {
       "history": [
         {
-          "date": "2026/7/29 21:04:58",
+          "date": "2026/7/29 22:47:25",
           "cost": 45,
-          "income": 0,
-          "profit": -45,
-          "shakes": 16,
+          "income": 29.2,
+          "profit": -15.8,
+          "shakes": 6,
           "events": [
-            "xiaozai",
-            "xiaozai",
-            "xiaozai",
-            "xiaozai",
-            "chongzai",
-            "chongzai",
-            "chongzai"
+            "zaoshu"
           ],
           "loot": {
-            "eryao": 0,
+            "eryao": 1,
             "bishui": 0,
             "dinghun": 0,
             "jingang": 0,
             "yeguang": 0,
             "longlin": 0,
-            "money": 0,
-            "exp": 0,
+            "money": 6,
+            "exp": 6,
             "shoujue": 0,
             "lingpai": 0,
-            "baoshi": 0,
+            "baoshi": 1,
             "caiguo": 0,
             "haima": 0
           },
-          "lootDetails": []
+          "lootDetails": [
+            "二药×1",
+            "金钱(万)×6",
+            "经验×6",
+            "宝石×1"
+          ]
         }
       ],
       "prices": {
-        "eryao": 1.5,
+        "eryao": 2.7,
         "bishui": 5,
-        "dinghun": 18,
-        "jingang": 18,
-        "yeguang": 12,
-        "longlin": 8,
+        "dinghun": 110,
+        "jingang": 110,
+        "yeguang": 110,
+        "longlin": 45,
         "money": 2.75,
         "exp": 0,
         "shoujue": 80,
-        "lingpai": 450,
-        "baoshi": 8,
-        "caiguo": 80,
-        "haima": 15
+        "lingpai": 370,
+        "baoshi": 10,
+        "caiguo": 35,
+        "haima": 16
       },
       "current": {
         "seedCost": 45,
@@ -76,107 +75,41 @@
       }
     },
     "petRing": {
-      "records": [],
-      "history": [
+      "records": [
         {
-          "date": "2026/7/29 21:04:17",
-          "ringCount": 4,
-          "totalCost": 17,
-          "totalScore": 11,
-          "totalPoints": 12,
-          "totalIncome": 5.647058823529411,
-          "profit": -11.352941176470589,
-          "bookIncome": 0,
-          "furnitureIncome": 0,
-          "fruitIncome": 5.647058823529411,
-          "isComplete": false,
-          "typeCount": {
-            "find": 0,
-            "ring60": 2,
-            "ring70": 0,
-            "ring80": 0,
-            "flower": 0,
-            "cook": 0,
-            "furn1": 1,
-            "furn2": 1,
-            "var_common": 0,
-            "var_spec": 0,
-            "skip": 0,
-            "normal_pet": 0,
-            "low_quality": 0
-          },
-          "rewards": ""
+          "typeKey": "ring60",
+          "cost": 26,
+          "score": 2,
+          "ringPoints": 3,
+          "isDeduct": false
         },
         {
-          "date": "2026/7/29 21:04:25",
-          "ringCount": 4,
-          "totalCost": 54,
-          "totalScore": 18,
-          "totalPoints": 12,
-          "totalIncome": 5.647058823529411,
-          "profit": -48.35294117647059,
-          "bookIncome": 0,
-          "furnitureIncome": 0,
-          "fruitIncome": 5.647058823529411,
-          "isComplete": false,
-          "typeCount": {
-            "find": 0,
-            "ring60": 0,
-            "ring70": 1,
-            "ring80": 1,
-            "flower": 0,
-            "cook": 0,
-            "furn1": 0,
-            "furn2": 1,
-            "var_common": 1,
-            "var_spec": 0,
-            "skip": 0,
-            "normal_pet": 0,
-            "low_quality": 0
-          },
-          "rewards": ""
+          "typeKey": "furn1",
+          "cost": 1.5,
+          "score": 2,
+          "ringPoints": 3,
+          "isDeduct": false
         },
         {
-          "date": "2026/7/29 21:04:38",
-          "ringCount": 6,
-          "totalCost": 17.5,
-          "totalScore": 11,
-          "totalPoints": 18,
-          "totalIncome": 8.470588235294118,
-          "profit": -9.029411764705882,
-          "bookIncome": 0,
-          "furnitureIncome": 0,
-          "fruitIncome": 8.470588235294118,
-          "isComplete": false,
-          "typeCount": {
-            "find": 3,
-            "ring60": 1,
-            "ring70": 2,
-            "ring80": 0,
-            "flower": 0,
-            "cook": 0,
-            "furn1": 0,
-            "furn2": 0,
-            "var_common": 0,
-            "var_spec": 0,
-            "skip": 0,
-            "normal_pet": 0,
-            "low_quality": 0
-          },
-          "rewards": ""
+          "typeKey": "cook",
+          "cost": 1.5,
+          "score": 2,
+          "ringPoints": 3,
+          "isDeduct": false
         }
       ],
+      "history": [],
       "prices": {
         "find": 0,
-        "ring60": 1.5,
-        "ring70": 3,
-        "ring80": 8,
+        "ring60": 26,
+        "ring70": 10,
+        "ring80": 60,
         "flower": 2,
-        "cook": 1,
-        "furn1": 1,
+        "cook": 1.5,
+        "furn1": 1.5,
         "furn2": 3,
-        "var_common": 30,
-        "var_spec": 80
+        "var_common": 170,
+        "var_spec": 1000
       },
       "deductSettings": {
         "skip": {
@@ -197,6 +130,14 @@
         "points": 0,
         "fruits": 0,
         "furnitures": 0
+      },
+      "uiSettings": {
+        "bgColor": "#b3c0d1",
+        "btnColor": "#593f22",
+        "btnTextColor": "#ffffff",
+        "cardBgColor": "#38423c",
+        "textColor": "#2a2a89",
+        "fontSize": 18
       }
     }
   }
