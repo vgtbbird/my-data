@@ -1,17 +1,22 @@
 {
   "version": "2.0",
-  "timestamp": "2026-07-29T12:39:58.053Z",
+  "timestamp": "2026-07-29T13:09:50.397Z",
   "modules": {
     "treePlant": {
       "history": [
         {
-          "date": "2026/7/29 20:03:40",
+          "date": "2026/7/29 21:04:58",
           "cost": 45,
           "income": 0,
           "profit": -45,
-          "shakes": 9,
+          "shakes": 16,
           "events": [
             "xiaozai",
+            "xiaozai",
+            "xiaozai",
+            "xiaozai",
+            "chongzai",
+            "chongzai",
             "chongzai"
           ],
           "loot": {
@@ -30,40 +35,6 @@
             "haima": 0
           },
           "lootDetails": []
-        },
-        {
-          "date": "2026/7/29 20:37:55",
-          "cost": 45,
-          "income": 257,
-          "profit": 212,
-          "shakes": 8,
-          "events": [
-            "chongzai"
-          ],
-          "loot": {
-            "eryao": 0,
-            "bishui": 1,
-            "dinghun": 2,
-            "jingang": 2,
-            "yeguang": 1,
-            "longlin": 0,
-            "money": 0,
-            "exp": 2,
-            "shoujue": 0,
-            "lingpai": 0,
-            "baoshi": 1,
-            "caiguo": 2,
-            "haima": 0
-          },
-          "lootDetails": [
-            "避水珠×1",
-            "定魂珠×2",
-            "金刚石×2",
-            "夜光珠×1",
-            "经验×2",
-            "宝石×1",
-            "彩果×2"
-          ]
         }
       ],
       "prices": {
@@ -108,51 +79,25 @@
       "records": [],
       "history": [
         {
-          "date": "2026/7/29 19:46:16",
-          "ringCount": 100,
-          "totalCost": 0,
-          "totalScore": 390,
-          "totalPoints": 1000,
-          "totalIncome": 470.5882352941177,
-          "profit": 470.5882352941177,
+          "date": "2026/7/29 21:04:17",
+          "ringCount": 4,
+          "totalCost": 17,
+          "totalScore": 11,
+          "totalPoints": 12,
+          "totalIncome": 5.647058823529411,
+          "profit": -11.352941176470589,
           "bookIncome": 0,
           "furnitureIncome": 0,
-          "fruitIncome": 470.5882352941177,
-          "isComplete": true,
-          "typeCount": {
-            "find": 10,
-            "ring60": 10,
-            "ring70": 10,
-            "ring80": 10,
-            "flower": 10,
-            "cook": 10,
-            "furn1": 10,
-            "furn2": 10,
-            "var_common": 10,
-            "var_spec": 10
-          },
-          "rewards": "130"
-        },
-        {
-          "date": "2026/7/29 20:38:12",
-          "ringCount": 13,
-          "totalCost": 42,
-          "totalScore": 35,
-          "totalPoints": 43,
-          "totalIncome": 20.235294117647058,
-          "profit": -21.764705882352942,
-          "bookIncome": 0,
-          "furnitureIncome": 0,
-          "fruitIncome": 20.235294117647058,
+          "fruitIncome": 5.647058823529411,
           "isComplete": false,
           "typeCount": {
-            "find": 2,
-            "ring60": 4,
-            "ring70": 5,
-            "ring80": 1,
+            "find": 0,
+            "ring60": 2,
+            "ring70": 0,
+            "ring80": 0,
             "flower": 0,
             "cook": 0,
-            "furn1": 0,
+            "furn1": 1,
             "furn2": 1,
             "var_common": 0,
             "var_spec": 0,
@@ -163,21 +108,50 @@
           "rewards": ""
         },
         {
-          "date": "2026/7/29 20:39:52",
-          "ringCount": 1,
-          "totalCost": 11.5,
-          "totalScore": 2,
-          "totalPoints": 3,
-          "totalIncome": 1.4117647058823528,
-          "profit": -10.088235294117647,
+          "date": "2026/7/29 21:04:25",
+          "ringCount": 4,
+          "totalCost": 54,
+          "totalScore": 18,
+          "totalPoints": 12,
+          "totalIncome": 5.647058823529411,
+          "profit": -48.35294117647059,
           "bookIncome": 0,
           "furnitureIncome": 0,
-          "fruitIncome": 1.4117647058823528,
+          "fruitIncome": 5.647058823529411,
           "isComplete": false,
           "typeCount": {
             "find": 0,
+            "ring60": 0,
+            "ring70": 1,
+            "ring80": 1,
+            "flower": 0,
+            "cook": 0,
+            "furn1": 0,
+            "furn2": 1,
+            "var_common": 1,
+            "var_spec": 0,
+            "skip": 0,
+            "normal_pet": 0,
+            "low_quality": 0
+          },
+          "rewards": ""
+        },
+        {
+          "date": "2026/7/29 21:04:38",
+          "ringCount": 6,
+          "totalCost": 17.5,
+          "totalScore": 11,
+          "totalPoints": 18,
+          "totalIncome": 8.470588235294118,
+          "profit": -9.029411764705882,
+          "bookIncome": 0,
+          "furnitureIncome": 0,
+          "fruitIncome": 8.470588235294118,
+          "isComplete": false,
+          "typeCount": {
+            "find": 3,
             "ring60": 1,
-            "ring70": 0,
+            "ring70": 2,
             "ring80": 0,
             "flower": 0,
             "cook": 0,
