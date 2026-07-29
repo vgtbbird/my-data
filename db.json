@@ -1,12 +1,33 @@
 {
   "runData": [
     {
-      "id": 1,
-      "totalCost": 13.0,
-      "profit": -11.6,
-      "score": 3,
-      "totalPoints": 3,
-      "date": "2026-07-29"
+      "date": "2026/7/29 14:57:50",
+      "ringCount": 2,
+      "totalCost": 21,
+      "totalScore": 8,
+      "totalPoints": 6,
+      "totalIncome": 2.8235294117647056,
+      "profit": -18.176470588235293,
+      "bookIncome": 0,
+      "furnitureIncome": 0,
+      "fruitIncome": 2.8235294117647056,
+      "isComplete": false,
+      "typeCount": {
+        "find": 0,
+        "ring60": 0,
+        "ring70": 1,
+        "ring80": 1,
+        "flower": 0,
+        "cook": 0,
+        "furn1": 0,
+        "furn2": 0,
+        "var_common": 0,
+        "var_spec": 0,
+        "skip": 0,
+        "normal_pet": 0,
+        "low_quality": 0
+      },
+      "rewards": ""
     }
   ],
   "settings": {
