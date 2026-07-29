@@ -1,50 +1,21 @@
 {
   "runData": [
     {
-      "date": "2026/7/29 14:57:50",
-      "ringCount": 2,
-      "totalCost": 21,
-      "totalScore": 8,
-      "totalPoints": 6,
-      "totalIncome": 2.8235294117647056,
-      "profit": -18.176470588235293,
+      "date": "2026/7/29 17:34:16",
+      "ringCount": 3,
+      "totalCost": 19,
+      "totalScore": 9,
+      "totalPoints": 9,
+      "totalIncome": 4.235294117647059,
+      "profit": -14.764705882352942,
       "bookIncome": 0,
       "furnitureIncome": 0,
-      "fruitIncome": 2.8235294117647056,
+      "fruitIncome": 4.235294117647059,
       "isComplete": false,
       "typeCount": {
         "find": 0,
         "ring60": 0,
-        "ring70": 1,
-        "ring80": 1,
-        "flower": 0,
-        "cook": 0,
-        "furn1": 0,
-        "furn2": 0,
-        "var_common": 0,
-        "var_spec": 0,
-        "skip": 0,
-        "normal_pet": 0,
-        "low_quality": 0
-      },
-      "rewards": ""
-    },
-    {
-      "date": "2026/7/29 15:12:06",
-      "ringCount": 4,
-      "totalCost": 19,
-      "totalScore": 10,
-      "totalPoints": 12,
-      "totalIncome": 5.647058823529411,
-      "profit": -13.352941176470589,
-      "bookIncome": 0,
-      "furnitureIncome": 0,
-      "fruitIncome": 5.647058823529411,
-      "isComplete": false,
-      "typeCount": {
-        "find": 0,
-        "ring60": 2,
-        "ring70": 2,
+        "ring70": 3,
         "ring80": 0,
         "flower": 0,
         "cook": 0,
@@ -57,6 +28,29 @@
         "low_quality": 0
       },
       "rewards": ""
+    }
+  ],
+  "treeData": [
+    {
+      "index": 1,
+      "cost": 45,
+      "income": 25.75,
+      "shakeCount": 6,
+      "events": [],
+      "loots": {
+        "dinghun": 1,
+        "bishui": 1,
+        "money": 1
+      },
+      "wu_bao_detail": {
+        "bishui": 1,
+        "dinghun": 1,
+        "jingang": 0,
+        "yeguang": 0,
+        "longlin": 0
+      },
+      "detail": "金钱×1 (2.8万)；五宝: 避水珠×1 (5.0万)、定魂珠×1 (18.0万)",
+      "date": "2026/7/29 17:34:21"
     }
   ],
   "settings": {
