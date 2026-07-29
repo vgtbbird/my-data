@@ -1,215 +1,229 @@
 {
   "version": "2.0",
-  "petRing": {
-    "history": [
-      {
-        "date": "2026/7/29 18:49:07",
-        "ringCount": 9,
-        "totalCost": 143.5,
-        "totalScore": 38,
-        "totalPoints": 27,
-        "totalIncome": 12.705882352941176,
-        "profit": -130.7941176470588,
-        "bookIncome": 0,
-        "furnitureIncome": 0,
-        "fruitIncome": 12.705882352941176,
-        "isComplete": true,
-        "typeCount": {
-          "find": 0,
-          "ring60": 1,
-          "ring70": 4,
-          "ring80": 1,
-          "flower": 1,
-          "cook": 0,
-          "furn1": 0,
-          "furn2": 0,
-          "var_common": 1,
-          "var_spec": 1,
-          "skip": 0,
-          "normal_pet": 0,
-          "low_quality": 0
+  "timestamp": "2026-07-29T12:39:58.053Z",
+  "modules": {
+    "treePlant": {
+      "history": [
+        {
+          "date": "2026/7/29 20:03:40",
+          "cost": 45,
+          "income": 0,
+          "profit": -45,
+          "shakes": 9,
+          "events": [
+            "xiaozai",
+            "chongzai"
+          ],
+          "loot": {
+            "eryao": 0,
+            "bishui": 0,
+            "dinghun": 0,
+            "jingang": 0,
+            "yeguang": 0,
+            "longlin": 0,
+            "money": 0,
+            "exp": 0,
+            "shoujue": 0,
+            "lingpai": 0,
+            "baoshi": 0,
+            "caiguo": 0,
+            "haima": 0
+          },
+          "lootDetails": []
         },
-        "rewards": ""
-      },
-      {
-        "date": "2026/7/29 18:50:24",
-        "ringCount": 17,
-        "totalCost": 72.3,
-        "totalScore": 7,
-        "totalPoints": 59,
-        "totalIncome": 27.764705882352942,
-        "profit": -44.535294117647055,
-        "bookIncome": 0,
-        "furnitureIncome": 0,
-        "fruitIncome": 27.764705882352942,
-        "isComplete": false,
-        "typeCount": {
-          "find": 1,
-          "ring60": 3,
-          "ring70": 2,
-          "ring80": 1,
-          "flower": 1,
-          "cook": 1,
-          "furn1": 1,
-          "furn2": 3,
-          "var_common": 1,
-          "var_spec": 0,
-          "skip": 1,
-          "normal_pet": 1,
-          "low_quality": 1
-        },
-        "rewards": ""
-      },
-      {
-        "date": "2026/7/29 19:06:02",
-        "ringCount": 22,
-        "totalCost": 83.8,
-        "totalScore": 24,
-        "totalPoints": 252,
-        "totalIncome": 122.08823529411765,
-        "profit": 38.288235294117655,
-        "bookIncome": 0,
-        "furnitureIncome": 3.5,
-        "fruitIncome": 118.58823529411765,
-        "isComplete": false,
-        "typeCount": {
-          "find": 1,
-          "ring60": 4,
-          "ring70": 3,
-          "ring80": 1,
-          "flower": 1,
-          "cook": 1,
-          "furn1": 2,
-          "furn2": 5,
-          "var_common": 1,
-          "var_spec": 0,
-          "skip": 1,
-          "normal_pet": 1,
-          "low_quality": 1
-        },
-        "rewards": ""
-      }
-    ],
-    "settings": {
-      "fruitPrice": 80,
-      "furniturePrice": 3.5
-    }
-  },
-  "treePlant": {
-    "history": [
-      {
-        "date": "2026/7/29 18:48:09",
-        "cost": 45,
-        "income": 861,
-        "profit": 816,
-        "shakes": 6,
-        "events": [],
-        "loot": {
-          "eryao": 1,
-          "bishui": 1,
-          "dinghun": 1,
-          "jingang": 1,
-          "yeguang": 1,
-          "longlin": 1,
-          "money": 2,
-          "exp": 2,
-          "shoujue": 2,
-          "lingpai": 1,
-          "baoshi": 1,
-          "caiguo": 2,
-          "haima": 1
-        },
-        "lootDetails": [
-          "二药×1",
-          "避水珠×1",
-          "定魂珠×1",
-          "金刚石×1",
-          "夜光珠×1",
-          "龙鳞×1",
-          "金钱(万)×2",
-          "经验×2",
-          "兽决×2",
-          "令牌×1",
-          "宝石×1",
-          "彩果×2",
-          "海马×1"
-        ]
-      },
-      {
-        "date": "2026/7/29 19:06:21",
-        "cost": 45,
-        "income": 714,
-        "profit": 669,
-        "shakes": 6,
-        "events": [],
-        "loot": {
-          "eryao": 1,
-          "bishui": 2,
-          "dinghun": 1,
-          "jingang": 1,
-          "yeguang": 1,
-          "longlin": 1,
-          "money": 2,
-          "exp": 1,
-          "shoujue": 1,
-          "lingpai": 1,
-          "baoshi": 2,
-          "caiguo": 1,
-          "haima": 1
-        },
-        "lootDetails": [
-          "二药×1",
-          "避水珠×2",
-          "定魂珠×1",
-          "金刚石×1",
-          "夜光珠×1",
-          "龙鳞×1",
-          "金钱(万)×2",
-          "经验×1",
-          "兽决×1",
-          "令牌×1",
-          "宝石×2",
-          "彩果×1",
-          "海马×1"
-        ]
-      }
-    ],
-    "prices": {
-      "eryao": 1.5,
-      "bishui": 5,
-      "dinghun": 18,
-      "jingang": 18,
-      "yeguang": 12,
-      "longlin": 8,
-      "money": 2.75,
-      "exp": 0,
-      "shoujue": 80,
-      "lingpai": 450,
-      "baoshi": 8,
-      "caiguo": 80,
-      "haima": 15
-    },
-    "current": {
-      "seedCost": 45,
-      "baseShakes": 6,
-      "shakes": 6,
-      "events": [],
-      "loot": {
-        "eryao": 0,
-        "bishui": 0,
-        "dinghun": 0,
-        "jingang": 0,
-        "yeguang": 0,
-        "longlin": 0,
-        "money": 0,
+        {
+          "date": "2026/7/29 20:37:55",
+          "cost": 45,
+          "income": 257,
+          "profit": 212,
+          "shakes": 8,
+          "events": [
+            "chongzai"
+          ],
+          "loot": {
+            "eryao": 0,
+            "bishui": 1,
+            "dinghun": 2,
+            "jingang": 2,
+            "yeguang": 1,
+            "longlin": 0,
+            "money": 0,
+            "exp": 2,
+            "shoujue": 0,
+            "lingpai": 0,
+            "baoshi": 1,
+            "caiguo": 2,
+            "haima": 0
+          },
+          "lootDetails": [
+            "避水珠×1",
+            "定魂珠×2",
+            "金刚石×2",
+            "夜光珠×1",
+            "经验×2",
+            "宝石×1",
+            "彩果×2"
+          ]
+        }
+      ],
+      "prices": {
+        "eryao": 1.5,
+        "bishui": 5,
+        "dinghun": 18,
+        "jingang": 18,
+        "yeguang": 12,
+        "longlin": 8,
+        "money": 2.75,
         "exp": 0,
-        "shoujue": 0,
-        "lingpai": 0,
-        "baoshi": 0,
-        "caiguo": 0,
-        "haima": 0
+        "shoujue": 80,
+        "lingpai": 450,
+        "baoshi": 8,
+        "caiguo": 80,
+        "haima": 15
       },
-      "isSettled": false
+      "current": {
+        "seedCost": 45,
+        "baseShakes": 6,
+        "shakes": 6,
+        "events": [],
+        "loot": {
+          "eryao": 0,
+          "bishui": 0,
+          "dinghun": 0,
+          "jingang": 0,
+          "yeguang": 0,
+          "longlin": 0,
+          "money": 0,
+          "exp": 0,
+          "shoujue": 0,
+          "lingpai": 0,
+          "baoshi": 0,
+          "caiguo": 0,
+          "haima": 0
+        },
+        "isSettled": false
+      }
+    },
+    "petRing": {
+      "records": [],
+      "history": [
+        {
+          "date": "2026/7/29 19:46:16",
+          "ringCount": 100,
+          "totalCost": 0,
+          "totalScore": 390,
+          "totalPoints": 1000,
+          "totalIncome": 470.5882352941177,
+          "profit": 470.5882352941177,
+          "bookIncome": 0,
+          "furnitureIncome": 0,
+          "fruitIncome": 470.5882352941177,
+          "isComplete": true,
+          "typeCount": {
+            "find": 10,
+            "ring60": 10,
+            "ring70": 10,
+            "ring80": 10,
+            "flower": 10,
+            "cook": 10,
+            "furn1": 10,
+            "furn2": 10,
+            "var_common": 10,
+            "var_spec": 10
+          },
+          "rewards": "130"
+        },
+        {
+          "date": "2026/7/29 20:38:12",
+          "ringCount": 13,
+          "totalCost": 42,
+          "totalScore": 35,
+          "totalPoints": 43,
+          "totalIncome": 20.235294117647058,
+          "profit": -21.764705882352942,
+          "bookIncome": 0,
+          "furnitureIncome": 0,
+          "fruitIncome": 20.235294117647058,
+          "isComplete": false,
+          "typeCount": {
+            "find": 2,
+            "ring60": 4,
+            "ring70": 5,
+            "ring80": 1,
+            "flower": 0,
+            "cook": 0,
+            "furn1": 0,
+            "furn2": 1,
+            "var_common": 0,
+            "var_spec": 0,
+            "skip": 0,
+            "normal_pet": 0,
+            "low_quality": 0
+          },
+          "rewards": ""
+        },
+        {
+          "date": "2026/7/29 20:39:52",
+          "ringCount": 1,
+          "totalCost": 11.5,
+          "totalScore": 2,
+          "totalPoints": 3,
+          "totalIncome": 1.4117647058823528,
+          "profit": -10.088235294117647,
+          "bookIncome": 0,
+          "furnitureIncome": 0,
+          "fruitIncome": 1.4117647058823528,
+          "isComplete": false,
+          "typeCount": {
+            "find": 0,
+            "ring60": 1,
+            "ring70": 0,
+            "ring80": 0,
+            "flower": 0,
+            "cook": 0,
+            "furn1": 0,
+            "furn2": 0,
+            "var_common": 0,
+            "var_spec": 0,
+            "skip": 0,
+            "normal_pet": 0,
+            "low_quality": 0
+          },
+          "rewards": ""
+        }
+      ],
+      "prices": {
+        "find": 0,
+        "ring60": 1.5,
+        "ring70": 3,
+        "ring80": 8,
+        "flower": 2,
+        "cook": 1,
+        "furn1": 1,
+        "furn2": 3,
+        "var_common": 30,
+        "var_spec": 80
+      },
+      "deductSettings": {
+        "skip": {
+          "deduct": 20,
+          "cost": 0
+        },
+        "normal_pet": {
+          "deduct": 15,
+          "cost": 0.5
+        },
+        "low_quality": {
+          "deduct": 4,
+          "cost": 0.3
+        }
+      },
+      "bookRewards": [],
+      "extraRewards": {
+        "points": 0,
+        "fruits": 0,
+        "furnitures": 0
+      }
     }
   }
 }
