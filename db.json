@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "timestamp": "2026-07-30T03:28:37.114Z",
+  "timestamp": "2026-07-30T03:28:48.420Z",
   "modules": {
     "treePlant": {
       "history": [],
@@ -72,85 +72,7 @@
       }
     },
     "petRing": {
-      "records": [
-        {
-          "typeKey": "find",
-          "cost": 0,
-          "score": 1,
-          "ringPoints": 3,
-          "isDeduct": false
-        },
-        {
-          "typeKey": "find",
-          "cost": 0,
-          "score": 1,
-          "ringPoints": 3,
-          "isDeduct": false
-        },
-        {
-          "typeKey": "find",
-          "cost": 0,
-          "score": 1,
-          "ringPoints": 3,
-          "isDeduct": false
-        },
-        {
-          "typeKey": "find",
-          "cost": 0,
-          "score": 1,
-          "ringPoints": 3,
-          "isDeduct": false
-        },
-        {
-          "typeKey": "ring60",
-          "cost": 1.5,
-          "score": 2,
-          "ringPoints": 3,
-          "isDeduct": false
-        },
-        {
-          "typeKey": "ring60",
-          "cost": 1.5,
-          "score": 2,
-          "ringPoints": 3,
-          "isDeduct": false
-        },
-        {
-          "typeKey": "ring60",
-          "cost": 1.5,
-          "score": 2,
-          "ringPoints": 3,
-          "isDeduct": false
-        },
-        {
-          "typeKey": "ring70",
-          "cost": 3,
-          "score": 3,
-          "ringPoints": 3,
-          "isDeduct": false
-        },
-        {
-          "typeKey": "ring70",
-          "cost": 3,
-          "score": 3,
-          "ringPoints": 3,
-          "isDeduct": false
-        },
-        {
-          "typeKey": "ring70",
-          "cost": 3,
-          "score": 3,
-          "ringPoints": 4,
-          "isDeduct": false
-        },
-        {
-          "typeKey": "ring70",
-          "cost": 3,
-          "score": 3,
-          "ringPoints": 4,
-          "isDeduct": false
-        }
-      ],
+      "records": [],
       "history": [
         {
           "date": "2026/7/30 11:23:30",
@@ -169,6 +91,35 @@
             "ring60": 1,
             "ring70": 3,
             "ring80": 2,
+            "flower": 0,
+            "cook": 0,
+            "furn1": 0,
+            "furn2": 0,
+            "var_common": 0,
+            "var_spec": 0,
+            "skip": 0,
+            "normal_pet": 0,
+            "low_quality": 0
+          },
+          "rewards": ""
+        },
+        {
+          "date": "2026/7/30 11:28:45",
+          "ringCount": 11,
+          "totalCost": 26.5,
+          "totalScore": 22,
+          "totalPoints": 35,
+          "totalIncome": 16.470588235294116,
+          "profit": -10.029411764705884,
+          "bookIncome": 0,
+          "furnitureIncome": 0,
+          "fruitIncome": 16.470588235294116,
+          "isComplete": false,
+          "typeCount": {
+            "find": 4,
+            "ring60": 3,
+            "ring70": 4,
+            "ring80": 0,
             "flower": 0,
             "cook": 0,
             "furn1": 0,
