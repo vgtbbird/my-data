@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "timestamp": "2026-07-30T03:23:42.858Z",
+  "timestamp": "2026-07-30T03:28:37.114Z",
   "modules": {
     "treePlant": {
       "history": [],
@@ -72,7 +72,85 @@
       }
     },
     "petRing": {
-      "records": [],
+      "records": [
+        {
+          "typeKey": "find",
+          "cost": 0,
+          "score": 1,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "find",
+          "cost": 0,
+          "score": 1,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "find",
+          "cost": 0,
+          "score": 1,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "find",
+          "cost": 0,
+          "score": 1,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "ring60",
+          "cost": 1.5,
+          "score": 2,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "ring60",
+          "cost": 1.5,
+          "score": 2,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "ring60",
+          "cost": 1.5,
+          "score": 2,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "ring70",
+          "cost": 3,
+          "score": 3,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "ring70",
+          "cost": 3,
+          "score": 3,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "ring70",
+          "cost": 3,
+          "score": 3,
+          "ringPoints": 4,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "ring70",
+          "cost": 3,
+          "score": 3,
+          "ringPoints": 4,
+          "isDeduct": false
+        }
+      ],
       "history": [
         {
           "date": "2026/7/30 11:23:30",
