@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "timestamp": "2026-07-30T03:28:48.420Z",
+  "timestamp": "2026-07-30T03:40:38.782Z",
   "modules": {
     "treePlant": {
       "history": [],
@@ -120,6 +120,35 @@
             "ring60": 3,
             "ring70": 4,
             "ring80": 0,
+            "flower": 0,
+            "cook": 0,
+            "furn1": 0,
+            "furn2": 0,
+            "var_common": 0,
+            "var_spec": 0,
+            "skip": 0,
+            "normal_pet": 0,
+            "low_quality": 0
+          },
+          "rewards": ""
+        },
+        {
+          "date": "2026/7/30 11:40:36",
+          "ringCount": 4,
+          "totalCost": 25.5,
+          "totalScore": 13,
+          "totalPoints": 12,
+          "totalIncome": 5.647058823529411,
+          "profit": -19.852941176470587,
+          "bookIncome": 0,
+          "furnitureIncome": 0,
+          "fruitIncome": 5.647058823529411,
+          "isComplete": false,
+          "typeCount": {
+            "find": 0,
+            "ring60": 1,
+            "ring70": 2,
+            "ring80": 1,
             "flower": 0,
             "cook": 0,
             "furn1": 0,
