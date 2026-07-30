@@ -1,9 +1,31 @@
 {
   "version": "2.0",
-  "timestamp": "2026-07-30T00:01:17.695Z",
+  "timestamp": "2026-07-30T01:48:43.530Z",
   "modules": {
     "petRing": {
-      "records": [],
+      "records": [
+        {
+          "typeKey": "furn2",
+          "cost": 3,
+          "score": 5,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "var_common",
+          "cost": 30,
+          "score": 5,
+          "ringPoints": 3,
+          "isDeduct": false
+        },
+        {
+          "typeKey": "ring80",
+          "cost": 8,
+          "score": 5,
+          "ringPoints": 3,
+          "isDeduct": false
+        }
+      ],
       "history": [],
       "prices": {
         "find": 0,
@@ -63,7 +85,19 @@
         "lingpai": 450,
         "baoshi": 8,
         "caiguo": 80,
-        "haima": 15
+        "haima": 15,
+        "baoshi_hl": 8,
+        "baoshi_tys": 6,
+        "baoshi_yls": 10,
+        "baoshi_gms": 7,
+        "baoshi_sls": 9,
+        "baoshi_hmm": 10,
+        "baoshi_fcs": 5,
+        "baoshi_xys": 3,
+        "c66": 25,
+        "zhenzhu": 20,
+        "fushi": 10,
+        "fushi_juanzhou": 5
       },
       "current": {
         "seedCost": 45,
@@ -77,14 +111,34 @@
           "jingang": 0,
           "yeguang": 0,
           "longlin": 0,
+          "baoshi_hl": 0,
+          "baoshi_tys": 0,
+          "baoshi_yls": 0,
+          "baoshi_gms": 0,
+          "baoshi_sls": 0,
+          "baoshi_hmm": 0,
+          "baoshi_fcs": 0,
+          "baoshi_xys": 0,
           "money": 0,
           "exp": 0,
           "shoujue": 0,
           "lingpai": 0,
-          "baoshi": 0,
           "caiguo": 0,
-          "haima": 0
-        }
+          "haima": 0,
+          "c66": 0,
+          "zhenzhu": 0,
+          "fushi": 0,
+          "fushi_juanzhou": 0
+        },
+        "isSettled": false
+      },
+      "uiSettings": {
+        "bgColor": "#eef2f7",
+        "btnColor": "#4CAF50",
+        "btnTextColor": "#ffffff",
+        "cardBgColor": "#78e3ce",
+        "textColor": "#1a1a2e",
+        "fontSize": 14
       }
     }
   }
