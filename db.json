@@ -1,83 +1,7 @@
 {
   "version": "2.0",
-  "timestamp": "2026-07-30T03:14:54.458Z",
+  "timestamp": "2026-07-30T03:23:42.858Z",
   "modules": {
-    "petRing": {
-      "records": [],
-      "history": [
-        {
-          "date": "2026/7/30 11:14:51",
-          "ringCount": 6,
-          "totalCost": 24,
-          "totalScore": 14,
-          "totalPoints": 18,
-          "totalIncome": 8.470588235294118,
-          "profit": -15.529411764705882,
-          "bookIncome": 0,
-          "furnitureIncome": 0,
-          "fruitIncome": 8.470588235294118,
-          "isComplete": false,
-          "typeCount": {
-            "find": 2,
-            "ring60": 2,
-            "ring70": 1,
-            "ring80": 1,
-            "flower": 0,
-            "cook": 0,
-            "furn1": 0,
-            "furn2": 0,
-            "var_common": 0,
-            "var_spec": 0,
-            "skip": 0,
-            "normal_pet": 0,
-            "low_quality": 0
-          },
-          "rewards": ""
-        }
-      ],
-      "prices": {
-        "find": 0,
-        "ring60": 1.5,
-        "ring70": 3,
-        "ring80": 8,
-        "flower": 2,
-        "cook": 1,
-        "furn1": 1,
-        "furn2": 3,
-        "var_common": 30,
-        "var_spec": 80
-      },
-      "deductSettings": {
-        "skip": {
-          "deduct": 20,
-          "cost": 0
-        },
-        "normal_pet": {
-          "deduct": 15,
-          "cost": 0.5
-        },
-        "low_quality": {
-          "deduct": 4,
-          "cost": 0.3
-        }
-      },
-      "bookRewards": [],
-      "extraRewards": {
-        "points": 0,
-        "fruits": 0,
-        "furnitures": 0
-      },
-      "uiSettings": {
-        "bgColor": "#eef2f7",
-        "btnColor": "#4CAF50",
-        "btnTextColor": "#ffffff",
-        "cardBgColor": "#ffffff",
-        "textColor": "#1a1a2e",
-        "fontSize": 14
-      },
-      "pendingSettle": null,
-      "exchangeRate": 0.08
-    },
     "treePlant": {
       "history": [],
       "prices": {
@@ -146,6 +70,82 @@
         "textColor": "#1a1a2e",
         "fontSize": 14
       }
+    },
+    "petRing": {
+      "records": [],
+      "history": [
+        {
+          "date": "2026/7/30 11:23:30",
+          "ringCount": 6,
+          "totalCost": 36.5,
+          "totalScore": 21,
+          "totalPoints": 18,
+          "totalIncome": 8.470588235294118,
+          "profit": -28.029411764705884,
+          "bookIncome": 0,
+          "furnitureIncome": 0,
+          "fruitIncome": 8.470588235294118,
+          "isComplete": false,
+          "typeCount": {
+            "find": 0,
+            "ring60": 1,
+            "ring70": 3,
+            "ring80": 2,
+            "flower": 0,
+            "cook": 0,
+            "furn1": 0,
+            "furn2": 0,
+            "var_common": 0,
+            "var_spec": 0,
+            "skip": 0,
+            "normal_pet": 0,
+            "low_quality": 0
+          },
+          "rewards": ""
+        }
+      ],
+      "prices": {
+        "find": 0,
+        "ring60": 1.5,
+        "ring70": 3,
+        "ring80": 8,
+        "flower": 2,
+        "cook": 1,
+        "furn1": 1,
+        "furn2": 3,
+        "var_common": 30,
+        "var_spec": 80
+      },
+      "deductSettings": {
+        "skip": {
+          "deduct": 20,
+          "cost": 0
+        },
+        "normal_pet": {
+          "deduct": 15,
+          "cost": 0.5
+        },
+        "low_quality": {
+          "deduct": 4,
+          "cost": 0.3
+        }
+      },
+      "bookRewards": [],
+      "extraRewards": {
+        "points": 0,
+        "fruits": 0,
+        "furnitures": 0
+      },
+      "uiSettings": {
+        "bgColor": "#eef2f7",
+        "btnColor": "#4CAF50",
+        "btnTextColor": "#ffffff",
+        "cardBgColor": "#ffffff",
+        "textColor": "#1a1a2e",
+        "fontSize": 14
+      },
+      "pendingSettle": null,
+      "exchangeRate": 0.08
     }
   }
 }
