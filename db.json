@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "timestamp": "2026-07-30T03:12:27.708Z",
+  "timestamp": "2026-07-30T03:12:38.199Z",
   "modules": {
     "petRing": {
       "records": [],
@@ -79,7 +79,45 @@
       "exchangeRate": 0.08
     },
     "treePlant": {
-      "history": [],
+      "history": [
+        {
+          "date": "2026/7/30 11:12:34",
+          "cost": 45,
+          "income": 10,
+          "profit": -35,
+          "shakes": 6,
+          "events": [],
+          "loot": {
+            "eryao": 0,
+            "bishui": 2,
+            "dinghun": 0,
+            "jingang": 0,
+            "yeguang": 0,
+            "longlin": 0,
+            "baoshi_hl": 0,
+            "baoshi_tys": 0,
+            "baoshi_yls": 0,
+            "baoshi_gms": 0,
+            "baoshi_sls": 0,
+            "baoshi_hmm": 0,
+            "baoshi_fcs": 0,
+            "baoshi_xys": 0,
+            "money": 0,
+            "exp": 0,
+            "shoujue": 0,
+            "lingpai": 0,
+            "caiguo": 0,
+            "haima": 0,
+            "c66": 0,
+            "zhenzhu": 0,
+            "fushi": 0,
+            "fushi_juanzhou": 0
+          },
+          "lootDetails": [
+            "避水珠×2"
+          ]
+        }
+      ],
       "prices": {
         "eryao": 1.5,
         "bishui": 5,
@@ -136,7 +174,8 @@
           "zhenzhu": 0,
           "fushi": 0,
           "fushi_juanzhou": 0
-        }
+        },
+        "isSettled": false
       },
       "uiSettings": {
         "bgColor": "#eef2f7",
